@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 137, 179), rgb(0, 93, 143));
+    h1, h2{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }  
+}
+.skibi{
+    height: 563px; width: 865px;
+}
